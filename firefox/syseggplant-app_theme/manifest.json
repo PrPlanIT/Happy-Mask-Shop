@@ -1,0 +1,21 @@
+{
+  "manifest_version": 2,
+  "version": "1.0",
+  "name": "SysEggPlant v25.0",
+  "theme": {
+    "images": {},
+    "properties": {},
+    "colors": {
+      "toolbar": "rgb(49, 9, 55)",
+      "toolbar_text": "rgb(81, 240, 113)",
+      "frame": "rgb(35, 97, 68)",
+      "tab_background_text": "rgb(116, 236, 190)",
+      "toolbar_field": "rgb(48, 28, 53)",
+      "toolbar_field_text": "rgb(116, 236, 190)",
+      "tab_line": "rgb(81, 240, 113)",
+      "popup": "rgb(7, 50, 84)",
+      "popup_text": "rgb(24, 156, 180)",
+      "tab_loading": "rgb(81, 240, 113)"
+    }
+  }
+}
