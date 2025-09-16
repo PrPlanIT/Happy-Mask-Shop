@@ -1,5 +1,5 @@
 {
-    "workbench.colorTheme": "Light Modern",
+    "workbench.colorTheme": "Default Light Modern",
     "editor.tokenColorCustomizations": { 
         "textMateRules": [
         {
@@ -2186,6 +2186,5 @@
         "debugExceptionWidget.border": "#474747"
     },
     "editor.fontFamily": "NovaMono",
-    "terminal.integrated.fontFamily": "monospace",
-    "accessibility.signalOptions.volume": 0
+    "terminal.integrated.fontFamily": "monospace"
 }
