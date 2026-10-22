@@ -1,0 +1,68 @@
+# ------------------------------------------------------------------------------
+# GENERATED / ENFORCED BY STAGEFREIGHT GOVERNANCE
+# Source repo: PrPlanIT/MaintenancePolicy
+# Profile: prplanit-docs
+# This .stagefreight.yml is governed, not purely local.
+# To disable governance, detach from the control repo workflow.
+# Manual changes may be overwritten by reconciliation.
+# ------------------------------------------------------------------------------
+
+version: 1
+scribe:
+  preset: https://gitlab.prplanit.com/PrPlanIT/MaintenancePolicy//preset/scribe-governance.yml
+lint:
+  preset: https://gitlab.prplanit.com/PrPlanIT/MaintenancePolicy//preset/lint-generic.yml
+commit:
+  preset: https://gitlab.prplanit.com/PrPlanIT/MaintenancePolicy//preset/commit.yml
+ci:
+  forge:
+    - gitlab
+  image: docker.cr.pcfae.com/prplanit/stagefreight:latest-dev
+forges:
+  preset: https://gitlab.prplanit.com/PrPlanIT/MaintenancePolicy//preset/forges.yml
+git:
+  preset: https://gitlab.prplanit.com/PrPlanIT/MaintenancePolicy//preset/git.yml
+metadata:
+  category: utilities
+  description:
+    - 'SoFMeRight''s SysEggplant themes: one palette, worn by every app we look at all day.'
+    - 'SysEggplant themes for Discord, browsers, self-hosted web apps and desktop tools: Stylus userstyles, app themes and Discord QuickCSS, each self-contained with its assets embedded and its history dated to when it was made.'
+  license: AGPL-3.0-only
+  org: PrPlanIT
+  title: Happy Mask Shop
+  topics:
+    - themes
+    - userstyles
+    - stylus
+    - syseggplant
+    - customization
+orgs:
+  PrPlanIT:
+    aliases:
+      docker: prplanit
+      ghcr: prplanit
+      github: PrPlanIT
+      handle: prplanit
+    maintainer: PrPlanIT <precisionplanit@gmail.com>
+repos:
+  github-mirror:
+    forge: github
+    project: PrPlanIT/Happy-Mask-Shop
+    roles:
+      - mirror
+      - publish-origin
+    sync:
+      git: true
+      releases: true
+  primary:
+    branches:
+      default: main
+    forge: gitlab
+    project: PrPlanIT/Happy-Mask-Shop
+    roles:
+      - primary
+    worktree: .
+stencils:
+  presets:
+    - https://gitlab.prplanit.com/PrPlanIT/MaintenancePolicy//preset/stencils-base.yml
+    - https://gitlab.prplanit.com/PrPlanIT/MaintenancePolicy//preset/stencils-pipeline.yml
