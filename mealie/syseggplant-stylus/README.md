@@ -13,9 +13,11 @@ other address, add it under the style's "Applies to" in Stylus.
 ## Settings
 
 Every colour is a setting under the style's gear icon. Settings named `THEME_*` are Mealie's own environment
-variables: copy their values into Mealie's environment to bake those colours in (see
-[`../syseggplant-app_theme`](../syseggplant-app_theme/)). The rest are "Stylus only": Mealie has no setting for
-them. "Monofur everywhere" switches the whole app to Monofur.
+variables; the rest are "Stylus only": Mealie has no setting for them. "Monofur everywhere" switches the whole app
+to Monofur.
+
+To serve the whole theme from Mealie itself, for every user, use the
+[server theme](../syseggplant-app_theme/) instead.
 
 ## Credits
 
