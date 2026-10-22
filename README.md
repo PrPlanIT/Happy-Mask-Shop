@@ -20,6 +20,7 @@
 | Home Assistant docs | SysEggplant on Dark mode | Stylus | [homeassistant/syseggplant-stylus](homeassistant/syseggplant-stylus/) |
 | Leantime | SysEggplant | server theme folder | [leantime/syseggplant-app_theme](leantime/syseggplant-app_theme/) |
 | Leantime | SysEggplant | Stylus | [leantime/syseggplant-stylus](leantime/syseggplant-stylus/) |
+| Mealie | SysEggplant | environment variables | [mealie/syseggplant-app_theme](mealie/syseggplant-app_theme/) |
 | OpenProject | SysEggplant | Rails initializer | [openproject/syseggplant-app_theme](openproject/syseggplant-app_theme/) |
 | Portainer | SysEggplant | Stylus | [portainer/syseggplant-stylus](portainer/syseggplant-stylus/) |
 | Proxmox VE | SysEggplant on PVEDiscordDark | Stylus | [proxmox/syseggplant-stylus](proxmox/syseggplant-stylus/) |
