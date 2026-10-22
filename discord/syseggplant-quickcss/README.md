@@ -27,9 +27,7 @@ even when the sites it came from go offline. Loading it as a file is smoother th
 [`vendored_assets.json`](vendored_assets.json) lists every embedded file: its original URL, where the copy came
 from and when it was taken.
 
-- `lily.png` (a Discord attachment) is no longer online; it was recovered from the Wayback Machine.
-- The theme also imported Better-Badges, whose stylesheet was deleted upstream in July 2021, before this theme was
-  made. It never loaded, so it is noted in the file but not embedded.
+`lily.png` (a Discord attachment) is no longer online; it was recovered from the Wayback Machine.
 
 ## Licence
 
