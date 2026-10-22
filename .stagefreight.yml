@@ -25,8 +25,8 @@ git:
 metadata:
   category: utilities
   description:
-    - 'SoFMeRight''s SysEggplant themes: one palette, worn by every app we look at all day.'
-    - 'SysEggplant themes for Discord, browsers, self-hosted web apps and desktop tools: Stylus userstyles, app themes and Discord QuickCSS, each self-contained with its assets embedded and its history dated to when it was made.'
+    - A collection of themes for apps and services, available for anyone to use and modify.
+    - A collection of themes for apps and services we have encountered in our environment, available for anyone to use and modify.
   license: AGPL-3.0-only
   org: PrPlanIT
   title: Happy Mask Shop
