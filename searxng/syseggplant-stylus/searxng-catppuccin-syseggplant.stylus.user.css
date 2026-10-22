@@ -1,13 +1,10 @@
 /* ==UserStyle==
-@name SearXNG Catppuccin
-@namespace github.com/catppuccin/userstyles/styles/searxng
-@homepageURL https://github.com/catppuccin/userstyles/tree/main/styles/searxng
+@name SearXNG: SoFMeRight's SysEggplant (Catppuccin)
+@namespace github.com/PrPlanIT/Happy-Mask-Shop
 @version 0.3.2
-@updateURL https://github.com/catppuccin/userstyles/raw/main/styles/searxng/catppuccin.user.css
-@supportURL https://github.com/catppuccin/userstyles/issues?q=is%3Aopen+is%3Aissue+label%3Asearxng
 @description Soothing pastel theme for SearXNG
 @author Catppuccin
-@license MIT
+@license AGPL-3.0-only AND MIT
 
 @preprocessor less
 @var select lightFlavor "Light Flavor" ["latte:Latte*", "frappe:Frappé", "macchiato:Macchiato", "mocha:Mocha"]
@@ -15,7 +12,12 @@
 @var select accentColor "Accent" ["rosewater:Rosewater", "flamingo:Flamingo", "pink:Pink", "mauve:Mauve*", "red:Red", "maroon:Maroon", "peach:Peach", "yellow:Yellow", "green:Green", "teal:Teal", "blue:Blue", "sapphire:Sapphire", "sky:Sky", "lavender:Lavender", "subtext0:Gray"]
 
 @var checkbox additions "Additional Tweaks" 0
+@homepageURL https://github.com/PrPlanIT/Happy-Mask-Shop
+@updateURL https://raw.githubusercontent.com/PrPlanIT/Happy-Mask-Shop/main/searxng/syseggplant-stylus/searxng-catppuccin-syseggplant.stylus.user.css
 ==/UserStyle== */
+/* SysEggplant recolour by SoFMeRight: Mocha base #301c35, mantle #310937.
+   Based on Catppuccin for SearXNG 0.3.2, Copyright (c) 2021 Catppuccin, MIT License:
+   https://github.com/catppuccin/userstyles */
 /* Domains picked from https://searx.space/. */
 @-moz-document domain("https://search.bus-hit.me/"),
 domain("https://search.inetol.net/") {

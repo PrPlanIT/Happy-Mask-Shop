@@ -1,12 +1,18 @@
 /* ==UserStyle==
-@name         Proxmox-Discord-Dark
-@namespace    USO Archive
+@name Proxmox VE: SoFMeRight's SysEggplant (PVEDiscordDark)
+@namespace github.com/PrPlanIT/Happy-Mask-Shop
 @author       Rocket_2019
 @description  A dark theme for the Proxmox Web UI,  inspired by Discord's color scheme.    Everything is dark, including the graphs, context menus and all in between! Eyes need not be fried.      This css theme is from Weilbyte which I took from his Github page https://github.com/Weilbyte/PVEDiscordDark
 @version      20220730.08.47
-@license      NONE
+@license AGPL-3.0-only AND MIT
 @preprocessor uso
+@homepageURL https://github.com/PrPlanIT/Happy-Mask-Shop
+@updateURL https://raw.githubusercontent.com/PrPlanIT/Happy-Mask-Shop/main/proxmox/syseggplant-stylus/proxmox-pvediscorddark-syseggplant.stylus.user.css
 ==/UserStyle== */
+/* SysEggplant recolour by SoFMeRight.
+   Based on PVEDiscordDark, Copyright 2021 Weilbyte, MIT License:
+   https://github.com/Weilbyte/PVEDiscordDark
+   Packaged as the userstyle Proxmox-Discord-Dark by Rocket_2019 (userstyles.org #226279). */
 @-moz-document regexp("https://pve.*vs.*:.*/.*"), regexp("https://pve.*"), regexp("https://proxmox.*vs.*:.*/.*"), regexp("https://.*:8006/.*"), regexp("http://pve.local") {
     .x-body {
         color: #408e6a;

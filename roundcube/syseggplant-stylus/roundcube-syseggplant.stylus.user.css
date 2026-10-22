@@ -1,9 +1,12 @@
 /* ==UserStyle==
-@name           RoundCube - SoFMeRight
-@namespace      github.com/openstyles/stylus
+@name Roundcube: SoFMeRight's SysEggplant Theme
+@namespace github.com/PrPlanIT/Happy-Mask-Shop
 @version        1.0.0
 @description    A new userstyle
 @author         Me
+@homepageURL https://github.com/PrPlanIT/Happy-Mask-Shop
+@updateURL https://raw.githubusercontent.com/PrPlanIT/Happy-Mask-Shop/main/roundcube/syseggplant-stylus/roundcube-syseggplant.stylus.user.css
+@license AGPL-3.0-only
 ==/UserStyle== */
 @-moz-document regexp(".*[?&]_task=.*") {
 
