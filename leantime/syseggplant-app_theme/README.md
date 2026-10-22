@@ -3,6 +3,9 @@
 A theme Leantime loads itself, selectable per user beside its built-in "More" and "Less" themes. Dark mode is an
 eggplant ground with mint type; light mode is a green ground with plum type.
 
+![Leantime SysEggplant, dark mode](screenshots/leantime-syseggplant-dark.png)
+![Leantime SysEggplant, light mode](screenshots/leantime-syseggplant-light.png)
+
 ## Install
 
 Leantime reads themes from `public/theme/<name>/`. Mount or copy this folder's contents so that the server has:

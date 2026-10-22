@@ -14,6 +14,8 @@ discord/syseggplant-quickcss/
 └── discord-kaleidoscope-syseggplant.quickcss.css
 ```
 
+4. **Screenshots go in the mod folder's `screenshots/`**, named `<application>-<themename>-<variant>.png` (`leantime-syseggplant-dark.png`). The mod's README shows them, and [`gallery.md`](gallery.md) lists every one.
+
 ## Naming
 
 1. **Installable files are named `<application>-<mod>-<themename>.<context>.<ext>`**, so a file still makes sense once downloaded on its own. `<mod>` names the original the theme is built on and is left out when the theme is entirely ours.

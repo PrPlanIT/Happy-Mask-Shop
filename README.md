@@ -1,6 +1,6 @@
 # Happy Mask Shop
 
-> *SoFMeRight's SysEggplant themes: one palette, worn by every app we look at all day.*
+> *A gallery of SoFMeRight's themes for everyday apps, each ready to install.*
 
 <!-- sf:project:start -->
 [![GitHub](https://img.shields.io/badge/GitHub-mirror-181717?logo=github)](https://github.com/PrPlanIT/Happy-Mask-Shop) [![GitLab](https://img.shields.io/badge/GitLab-source-FC6D26?logo=gitlab)](https://gitlab.prplanit.com/PrPlanIT/Happy-Mask-Shop) [![license](https://raw.githubusercontent.com/PrPlanIT/Happy-Mask-Shop/main/.stagefreight/scribe/license.svg)](https://github.com/PrPlanIT/Happy-Mask-Shop/blob/main/LICENSE) [![Open Issues](https://img.shields.io/github/issues/PrPlanIT/Happy-Mask-Shop)](https://github.com/PrPlanIT/Happy-Mask-Shop/issues) [![Open PRs](https://img.shields.io/github/issues-pr/PrPlanIT/Happy-Mask-Shop)](https://github.com/PrPlanIT/Happy-Mask-Shop/pulls) [![Contributors](https://img.shields.io/github/contributors/PrPlanIT/Happy-Mask-Shop)](https://github.com/PrPlanIT/Happy-Mask-Shop/graphs/contributors) [![donate](https://img.shields.io/badge/donate-FF5E5B?logo=ko-fi&logoColor=white)](https://ko-fi.com/T6T41IT163) [![sponsor](https://img.shields.io/badge/sponsor-EA4AAA?logo=githubsponsors&logoColor=white)](https://github.com/sponsors/PrPlanIT)
@@ -29,7 +29,8 @@
 | VS Code | SysEggplant | user settings | [vscode/syseggplant-app_theme](vscode/syseggplant-app_theme/) |
 | Windows 10 / 11 | SysEggplant | accent colour | [windows/syseggplant-app_theme](windows/syseggplant-app_theme/) |
 
-Each folder holds one installable file and a README with what it needs and how to install it.
+Each folder holds one installable file and a README with what it needs and how to install it. Screenshots are in the
+[gallery](docs/gallery.md).
 
 ## Stylus
 
@@ -39,7 +40,7 @@ Most web themes are userstyles for [Stylus](https://github.com/openstyles/stylus
 [Opera](https://addons.opera.com/extensions/details/stylus/). With Stylus installed, open a `.user.css` file's raw
 view and Stylus offers to install it, then keeps it updated from this repository.
 
-## Palette
+## SysEggplant
 
 | Era | Ground | Accents |
 | --- | --- | --- |
@@ -47,7 +48,7 @@ view and Stylus offers to install it, then keeps it updated from this repository
 | 2024 | `#310937` | `#408e6a` `#60bb46` `#368561` |
 | 2025 | `#310937` | `#236144` `#74ecbe` `#51f071` |
 
-Older palettes live in each file's history rather than as separate themes.
+Older SysEggplant palettes live in each file's history rather than as separate themes.
 
 ## Licence
 
