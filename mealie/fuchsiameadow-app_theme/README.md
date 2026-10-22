@@ -1,6 +1,6 @@
-# Mealie: SysEggplant
+# Mealie: Fuchsia Meadow
 
-SysEggplant colours for the [Mealie](https://mealie.io/) recipe manager, set through its theme environment variables.
+Fuchsia Meadow colours for the [Mealie](https://mealie.io/) recipe manager, set through its theme environment variables.
 Each comment in the file says what that colour paints.
 
 ## Install

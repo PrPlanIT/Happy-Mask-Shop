@@ -20,7 +20,7 @@
 | Home Assistant docs | SysEggplant on Dark mode | Stylus | [homeassistant/syseggplant-stylus](homeassistant/syseggplant-stylus/) |
 | Leantime | SysEggplant | server theme folder | [leantime/syseggplant-app_theme](leantime/syseggplant-app_theme/) |
 | Leantime | SysEggplant | Stylus | [leantime/syseggplant-stylus](leantime/syseggplant-stylus/) |
-| Mealie | SysEggplant | environment variables | [mealie/syseggplant-app_theme](mealie/syseggplant-app_theme/) |
+| Mealie | Fuchsia Meadow | environment variables | [mealie/fuchsiameadow-app_theme](mealie/fuchsiameadow-app_theme/) |
 | OpenProject | SysEggplant | Rails initializer | [openproject/syseggplant-app_theme](openproject/syseggplant-app_theme/) |
 | Portainer | SysEggplant | Stylus | [portainer/syseggplant-stylus](portainer/syseggplant-stylus/) |
 | Proxmox VE | SysEggplant on PVEDiscordDark | Stylus | [proxmox/syseggplant-stylus](proxmox/syseggplant-stylus/) |
@@ -50,6 +50,12 @@ view and Stylus offers to install it, then keeps it updated from this repository
 | 2025 | `#310937` | `#236144` `#74ecbe` `#51f071` |
 
 Older SysEggplant palettes live in each file's history rather than as separate themes.
+
+## Fuchsia Meadow
+
+| Primary | Accent | Secondary | Success | Info | Warning | Error |
+| --- | --- | --- | --- | --- | --- | --- |
+| `#349722` | `#ad9f11` | `#852297` | `#006838` | `#24cc89` | `#ef7d50` | `#310937` |
 
 ## Licence
 
