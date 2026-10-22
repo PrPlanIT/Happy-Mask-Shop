@@ -414,22 +414,22 @@ html .v-theme--light .bg-white {
   background: @light_background !important;
 }
 
-html .v-theme--light .v-card {
+html .v-theme--light .v-card:has(input[type="password"]) {
   background: linear-gradient(175deg, @light_background 0%, lighten(@light_surface, 6%) 22%, @light_surface 55%) !important;
   border: 1px solid fade(@light_text, 18%) !important;
   box-shadow: 0 18px 50px fade(@light_topbar, 30%), 0 2px 8px fade(@light_topbar, 20%) !important;
 }
-html .v-theme--light .v-card .bg-primary:not(.v-btn) {
+html .v-theme--light .v-card:has(input[type="password"]) .bg-primary:not(.v-btn) {
   background: transparent !important;
 }
-html .v-theme--light .v-card .icon-divider {
+html .v-theme--light .v-card:has(input[type="password"]) .icon-divider {
   visibility: hidden;
 }
-html .v-theme--light .v-card .text-h4 {
+html .v-theme--light .v-card:has(input[type="password"]) .text-h4 {
   color: @light_text !important;
   font-family: "Monofur", monospace !important;
 }
-html .v-theme--light .v-card .v-field--variant-solo-filled {
+html .v-theme--light .v-card:has(input[type="password"]) .v-field--variant-solo-filled {
   background: @light_surface_raised !important;
 }
 html .v-theme--light .v-btn.bg-primary {
