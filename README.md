@@ -1,6 +1,6 @@
 # Happy Mask Shop
 
-> *A gallery of PrPlanIT's themes for everyday apps, each ready to install.*
+> *A collection of themes for apps and services we have encountered in our environment, available for anyone to use and modify.*
 
 <!-- sf:project:start -->
 [![GitHub](https://img.shields.io/badge/GitHub-mirror-181717?logo=github)](https://github.com/PrPlanIT/Happy-Mask-Shop) [![GitLab](https://img.shields.io/badge/GitLab-source-FC6D26?logo=gitlab)](https://gitlab.prplanit.com/PrPlanIT/Happy-Mask-Shop) [![license](https://raw.githubusercontent.com/PrPlanIT/Happy-Mask-Shop/main/.stagefreight/scribe/license.svg)](https://github.com/PrPlanIT/Happy-Mask-Shop/blob/main/LICENSE) [![Open Issues](https://img.shields.io/github/issues/PrPlanIT/Happy-Mask-Shop)](https://github.com/PrPlanIT/Happy-Mask-Shop/issues) [![Open PRs](https://img.shields.io/github/issues-pr/PrPlanIT/Happy-Mask-Shop)](https://github.com/PrPlanIT/Happy-Mask-Shop/pulls) [![Contributors](https://img.shields.io/github/contributors/PrPlanIT/Happy-Mask-Shop)](https://github.com/PrPlanIT/Happy-Mask-Shop/graphs/contributors) [![donate](https://img.shields.io/badge/donate-FF5E5B?logo=ko-fi&logoColor=white)](https://ko-fi.com/T6T41IT163) [![sponsor](https://img.shields.io/badge/sponsor-EA4AAA?logo=githubsponsors&logoColor=white)](https://github.com/sponsors/PrPlanIT)
