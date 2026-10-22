@@ -1,7 +1,7 @@
 /* ==UserStyle==
-@name Home Assistant Docs: SoFMeRight's SysEggplant (Dark mode by Jonas)
+@name Home Assistant Docs: SysEggplant (Dark mode by Jonas)
 @namespace github.com/PrPlanIT/Happy-Mask-Shop
-@author       Jonas (<-- Original Author | This was color graded by SoFMeRight)
+@author Jonas (original author); SysEggplant recolour by PrPlanIT
 @description  Home Assistant Documentation in Dark mode
 @version      20220320.18.36
 @license NONE (original author; shared with attribution)
@@ -14,7 +14,7 @@
 @homepageURL https://github.com/PrPlanIT/Happy-Mask-Shop
 @updateURL https://raw.githubusercontent.com/PrPlanIT/Happy-Mask-Shop/main/homeassistant/syseggplant-stylus/homeassistant-dark_mode-syseggplant.stylus.user.css
 ==/UserStyle== */
-/* SysEggplant recolour by SoFMeRight of "Home Assistant - Dark mode" by Jonas
+/* SysEggplant recolour by PrPlanIT of "Home Assistant - Dark mode" by Jonas
    (userstyles.org #233914, 2022). The original carries no licence: this file is Jonas's
    work shared with attribution and is not covered by this repository's AGPL-3.0-only. */
 @-moz-document url-prefix("https://www.home-assistant.io/"), regexp("https?://.*:8123/.*") {
