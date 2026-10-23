@@ -17,6 +17,7 @@
 | Facebook | SysEggplant on Facebook Themer | Stylus | [facebook/syseggplant-stylus](facebook/syseggplant-stylus/) |
 | Firefox | SysEggplant | Firefox browser theme | [firefox/syseggplant-app_theme](firefox/syseggplant-app_theme/) |
 | FreeCommander XE | SysEggplant | colour scheme file | [freecommander/syseggplant-app_theme](freecommander/syseggplant-app_theme/) |
+| Homarr | SysEggplant | board appearance + custom CSS | [homarr/syseggplant-app_theme](homarr/syseggplant-app_theme/) |
 | Home Assistant docs | SysEggplant on Dark mode | Stylus | [homeassistant/syseggplant-stylus](homeassistant/syseggplant-stylus/) |
 | Leantime | SysEggplant | server theme folder | [leantime/syseggplant-app_theme](leantime/syseggplant-app_theme/) |
 | Leantime | SysEggplant | Stylus | [leantime/syseggplant-stylus](leantime/syseggplant-stylus/) |
