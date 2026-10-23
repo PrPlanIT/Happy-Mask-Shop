@@ -1,0 +1,9 @@
+Theme: Organizr
+Nav Bar Color: #310937
+Nav Bar Text Color: #24cc89
+Side Bar Color: #310937
+Side Bar Text Color: #24cc89
+Accent Color: #2f1c35
+Accent Text Color: #90a83b
+Button Color: #24cc89
+Button Text Color: #310937

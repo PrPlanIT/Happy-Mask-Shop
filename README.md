@@ -24,6 +24,7 @@
 | Mealie | SysEggplant | server stylesheet | [mealie/syseggplant-app_theme](mealie/syseggplant-app_theme/) |
 | Mealie | Fuchsia Meadow | environment variables | [mealie/fuchsiameadow-app_theme](mealie/fuchsiameadow-app_theme/) |
 | OpenProject | SysEggplant | Rails initializer | [openproject/syseggplant-app_theme](openproject/syseggplant-app_theme/) |
+| Organizr | SysEggplant | appearance settings | [organizr/syseggplant-app_theme](organizr/syseggplant-app_theme/) |
 | Portainer | SysEggplant | Stylus | [portainer/syseggplant-stylus](portainer/syseggplant-stylus/) |
 | Proxmox VE | SysEggplant on PVEDiscordDark | Stylus | [proxmox/syseggplant-stylus](proxmox/syseggplant-stylus/) |
 | Roundcube | SysEggplant | Stylus | [roundcube/syseggplant-stylus](roundcube/syseggplant-stylus/) |
