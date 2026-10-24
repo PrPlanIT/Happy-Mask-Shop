@@ -11,6 +11,10 @@ version: 1
 scribe:
   preset: https://gitlab.prplanit.com/PrPlanIT/MaintenancePolicy//preset/scribe-governance.yml
 lint:
+  modules:
+    links:
+      enabled: true
+      internal: error
   preset: https://gitlab.prplanit.com/PrPlanIT/MaintenancePolicy//preset/lint-generic.yml
 commit:
   preset: https://gitlab.prplanit.com/PrPlanIT/MaintenancePolicy//preset/commit.yml
