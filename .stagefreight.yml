@@ -9,23 +9,23 @@
 
 version: 1
 scribe:
-  preset: https://gitlab.prplanit.com/PrPlanIT/MaintenancePolicy//preset/scribe-governance.yml
+  preset: https://git.optcp.com/PrPlanIT/MaintenancePolicy//preset/scribe-governance.yml
 lint:
   modules:
     links:
       enabled: true
       internal: error
-  preset: https://gitlab.prplanit.com/PrPlanIT/MaintenancePolicy//preset/lint-generic.yml
+  preset: https://git.optcp.com/PrPlanIT/MaintenancePolicy//preset/lint-generic.yml
 commit:
-  preset: https://gitlab.prplanit.com/PrPlanIT/MaintenancePolicy//preset/commit.yml
+  preset: https://git.optcp.com/PrPlanIT/MaintenancePolicy//preset/commit.yml
 ci:
   forge:
     - gitlab
   image: docker.cr.pcfae.com/prplanit/stagefreight:latest-dev
 forges:
-  preset: https://gitlab.prplanit.com/PrPlanIT/MaintenancePolicy//preset/forges.yml
+  preset: https://git.optcp.com/PrPlanIT/MaintenancePolicy//preset/forges.yml
 git:
-  preset: https://gitlab.prplanit.com/PrPlanIT/MaintenancePolicy//preset/git.yml
+  preset: https://git.optcp.com/PrPlanIT/MaintenancePolicy//preset/git.yml
 metadata:
   category: utilities
   description:
@@ -68,5 +68,5 @@ repos:
     worktree: .
 stencils:
   presets:
-    - https://gitlab.prplanit.com/PrPlanIT/MaintenancePolicy//preset/stencils-base.yml
-    - https://gitlab.prplanit.com/PrPlanIT/MaintenancePolicy//preset/stencils-pipeline.yml
+    - https://git.optcp.com/PrPlanIT/MaintenancePolicy//preset/stencils-base.yml
+    - https://git.optcp.com/PrPlanIT/MaintenancePolicy//preset/stencils-pipeline.yml
